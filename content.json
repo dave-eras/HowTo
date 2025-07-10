@@ -1,0 +1,42 @@
+{
+    "topic": "1",
+    "subtopic": "1.1",
+    "level": {
+        "A1": {
+            "content_id": "1.1",
+            "image": "https://corsbucket-cll.s3.eu-west-3.amazonaws.com/360/kitchen/A1_Voc_1_1.jpg",
+            "overview": {
+                "goal_1": {
+                    "en": "Say hello to someone new.",
+                    "fr": "Dites bonjour à quelqu'un de nouveau."
+                },
+                "goal_2": {
+                    "en": "Practice asking easy questions to learn about the other person.",
+                    "fr": "Pratiquez les questions faciles pour apprendre à propos de l'autre personne."
+                },
+                "goal_3": {
+                    "en": "Show interest in the other speaker.",
+                    "fr": "Montrez votre intérêt pour l'autre personne."
+                },
+                "goal_4": {
+                    "en": "Continue the conversation.",
+                    "fr": "Continuez la conversation."
+                },
+                "context": {
+                    "text": {
+                        "en": "Ana enjoys going to events, but she feels shy when meeting new people. She sees others talking easily, but she doesn't know how to start. She wants to make new friends and connections, but often waits for others to speak first. This time, she wants to be the one who starts the conversation. How could Ana break the ice?",
+                        "fr": "Ana aime aller aux événements, mais elle se sent timide lorsqu'elle rencontre de nouvelles personnes. Elle voit d'autres personnes parler facilement, mais elle ne sait pas comment commencer. Elle veut faire de nouveaux amis et des connexions, mais elle attend souvent que les autres parlent d'abord. Cette fois, elle veut être celle qui commence la conversation. Comment Ana peut-elle casser la glace ?"
+                    },
+                    "audio": {
+                        "en": "https://corsbucket-cll.s3.eu-west-3.amazonaws.com/HowTo/test.mp3",
+                        "fr": "https://corsbucket-cll.s3.eu-west-3.amazonaws.com/intercultural/FR_audio1.mp3"
+                    },
+                    "subtitles": {
+                        "en": "https://corsbucket-cll.s3.eu-west-3.amazonaws.com/HowTo/test.srt",
+                        "fr": ""
+                    }
+                }
+            }
+        }
+    }
+}
